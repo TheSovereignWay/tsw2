@@ -68,7 +68,7 @@ h6{
 	line-height:30px;
 }
 .listArrow li{
-background: url('../images/links-arrow.png') 0px 12px no-repeat;
+background: url('../links-arrow.png') 0px 12px no-repeat;
 padding-left:15px;
 }
 .progress {
