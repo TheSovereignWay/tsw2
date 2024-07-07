@@ -595,7 +595,7 @@ img, video, iframe, embed, object {
 /* Features
     -------------------------------------------------*/
 #aboutUs {
-	background: #ffffff;
+	background: #ffffff; /* about us wall bkgd*/
 	padding-top: 35px;
 	padding-bottom: 25px;
 	overflow: hidden;
