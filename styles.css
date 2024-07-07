@@ -486,11 +486,11 @@ line-height: 1.5em;
 font-size: 28px !important;
 margin: 37px 0 13px;
 font-weight: bolder; 
-background: rgba(255, 255, 255, 0.44);
+background: rgba(0, 0, 0, 0.44);
 width: 60%;
 margin: 0 auto;
 padding: 20px 0;
-border: dashed 1px rgba(255, 255, 255, 0.6);
+border: dashed 1px rgba(0, 0, 0, 0.6);
 text-transform: uppercase;
 }
 .hero-text p {
@@ -522,7 +522,7 @@ a.arrow-link:hover {
  
 .hero-button {
 	text-align: center;
-	background: rgba(255, 255, 255, 0.36);
+	background: rgba(0, 0, 0, 0.36);
 	border: 1px solid #fff;
 	padding: 20px;
 	display: inline-block;
