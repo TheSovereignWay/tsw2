@@ -25,12 +25,12 @@ body {
 	-o-transition: all 0.3s linear;
 }
 ::selection {
-	color: #000;
+	color: #00ff0b;
 	background: #ff8500;
 }
 
 ::-moz-selection {
- color: #000;
+ color: #00ff0b;
  background: #ff8500;
 }
 p {
@@ -87,7 +87,7 @@ background: #9FDE32;
 .feature a {
 display: inline-block;
 font-size: 18px;
-color: #fff;
+color: #000;
 background: #ff8500;
 margin-right: 20px;
 width: 220px;
@@ -147,7 +147,7 @@ padding: 8px 12px;
 	max-width: 100%;
 	display: block;
 	margin-bottom: 20px;
-	background: #fff;
+	background: #000;
 	font-size: inherit;
 	border-radius: 0px !important;
 	border: 1px solid #FF8500;
@@ -158,16 +158,16 @@ padding: 8px 12px;
 	display: inline-block;
 	vertical-align: middle;
 	zoom: 1;
-	color: #000;
+	color: #00ff0b;
 	padding: 10px 25px;
-	border: 2px solid #000;
+	border: 2px solid #00ff0b;
 	border-radius: 0px;
 	font-size: 16px;
 	font-weight: 400;
 	background: rgba(255,255,255,0.15);
 }
 .button-outline:hover {
-	color: #000;
+	color: #00ff0b;
 	background: rgba(255,255,255,0.35);
 }
 a {
@@ -263,7 +263,7 @@ color:#F89F9F;	/*  Pink ?*/
 	-webkit-transition: all 0.3s linear;
 	-moz-transition: all 0.3s linear;
 	-o-transition: all 0.3s linear;
-	background:#ffffff;
+	background:#ffffff; /*persistent banner*/
 	top:0px;
 }
 .navbar-inverse {
@@ -280,10 +280,10 @@ color:#F89F9F;	/*  Pink ?*/
 	background: #ff8500;
 }
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-	color: #000;
+	color: #00ff0b;
 }
 .navbar-inverse .navbar-toggle:hover .icon-bar {
-	background: #000;
+	background: #00ff0b;
 }
 .navbar-toggle {
 }
@@ -291,7 +291,7 @@ color:#F89F9F;	/*  Pink ?*/
 background: rgb(34, 34, 34);
 }
 .hero-text {
-	color: #676e73;
+	color: #676e73; /* med gry */
 	width: 83%;
 	text-align: center;
 	margin: 30% auto 24px auto;
@@ -320,7 +320,7 @@ background: rgb(34, 34, 34);
 	font-size: 45px;
 	padding: 10px 15px;
 	background: rgba(128, 180, 33, 0.80);
-	color: #FFFFFF;
+	color: #000000;
 	text-shadow: none;
 	font-weight: bold;
 	display: inline-block;
