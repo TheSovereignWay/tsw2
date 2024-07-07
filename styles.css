@@ -218,7 +218,7 @@ color: #1E4D02 !important;
 	z-index: 5;
 }
 .topHome:hover{
-color:#F89F9F;	
+color:#F89F9F;	/*  Pink ?*/
 	}
 /* Header 
 ----------------------------------------------*/
@@ -400,7 +400,7 @@ padding-right: 15px;
 color: #000;
 }
 .navbar-inverse .navbar-nav > li > a {
-	color: #fff;
+	color: #000;
 	font-size: 1.2em;
 	line-height: normal;
 	margin: 17px;
@@ -673,7 +673,7 @@ padding: 0px 12px 26px !important;
 content: "";
 width: 60px;
 height: 60px;
-background: yellow;
+background: orange;
 float: right;
 position: absolute;
 z-index: -1;
@@ -684,7 +684,7 @@ right: 12px;
 content: "";
 width: 60px;
 height: 60px;
-background: yellow;
+background: orange;
 float: right;
 position: absolute;
 z-index: -1;
