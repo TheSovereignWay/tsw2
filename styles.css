@@ -280,10 +280,10 @@ color:#F89F9F;	/*  Pink ?*/
 	background: #ff8500;
 }
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-	color: #fff;
+	color: #000;
 }
 .navbar-inverse .navbar-toggle:hover .icon-bar {
-	background: #fff;
+	background: #000;
 }
 .navbar-toggle {
 }
@@ -362,7 +362,7 @@ background: rgb(34, 34, 34);
 	font-weight: 900;
 }
 .navbar-brand b i {
-	color: #000;
+	color: #9ff8a3;
 	font-style: normal;
 }
 .logo {
