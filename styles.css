@@ -87,7 +87,7 @@ background: #9FDE32;
 .feature a {
 display: inline-block;
 font-size: 18px;
-color: #000;
+color: #00ff0b;
 background: #ff8500;
 margin-right: 20px;
 width: 220px;
@@ -147,7 +147,7 @@ padding: 8px 12px;
 	max-width: 100%;
 	display: block;
 	margin-bottom: 20px;
-	background: #000;
+	background: #00ff0b;
 	font-size: inherit;
 	border-radius: 0px !important;
 	border: 1px solid #FF8500;
@@ -206,7 +206,7 @@ a:hover {
 color: #000;
 }
 .copyright a:hover{
-color: #1E4D02 !important;
+color: #1E4D02 !important; /* Drk Grn*/
 }
 #top {
 	position: relative;
@@ -320,16 +320,16 @@ background: rgb(34, 34, 34);
 	font-size: 45px;
 	padding: 10px 15px;
 	background: rgba(128, 180, 33, 0.80);
-	color: #000000;
+	color: #00ff0b;
 	text-shadow: none;
 	font-weight: bold;
 	display: inline-block;
 }
 .carousel-caption h3 {
 	font-size: 30px;
-	color: #1C4604;
+	color: #1C4604; /*Drk Grn*/
 	font-weight: bold;
-	text-shadow: #fff 1px 1px 1px;
+	text-shadow: #000 1px 1px 1px;
 }
 .actionPanel {
 	padding: 25px 0;
@@ -346,7 +346,7 @@ background: rgb(34, 34, 34);
 	line-height: 90px !important;
 }
 #section-strapline {
-	background: #86bd2e;
+	background: #86bd2e; /*gross grn*/
 	line-height: 42px;
 	clear: both;
 }
@@ -362,7 +362,7 @@ background: rgb(34, 34, 34);
 	font-weight: 900;
 }
 .navbar-brand b i {
-	color: #9ff8a3;
+	color: #9ff8a3; /*lime Grn*/
 	font-style: normal;
 }
 .logo {
@@ -375,7 +375,7 @@ background: rgb(34, 34, 34);
 }
 .header .navbar {
 	margin: 0;
-background: rgba(255, 255, 255, 0.75);
+background: rgba(255, 255, 255, 0.75); /*floating banner bkgrnd*/
 border: 0;
 padding: 0px 15px;
 }
@@ -400,7 +400,7 @@ padding-right: 15px;
 color: #000;
 }
 .navbar-inverse .navbar-nav > li > a {
-	color: #000;
+	color: #00ff0b;
 	font-size: 1.2em;
 	line-height: normal;
 	margin: 17px;
@@ -481,7 +481,7 @@ bottom: 0px;
 	right: 0px;
 }
 .hero-text h1 {
-color: #fff; 
+color: #000; 
 line-height: 1.5em;
 font-size: 28px !important;
 margin: 37px 0 13px;
