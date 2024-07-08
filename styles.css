@@ -248,10 +248,10 @@ color:#F89F9F;	/*  Pink ?*/
 .header {
 	position: fixed;
 	width: 100%;
-	background: #000000;
+	background: transparent; /* floating banner bkgd */
 	z-index: 50;
 	border-radius: 0;
-	top: 35px;  
+	top: 135px;  
 	
 	transition: all 0.3s linear;
 	-webkit-transition: all 0.3s linear;
