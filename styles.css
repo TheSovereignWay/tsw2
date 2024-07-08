@@ -263,7 +263,7 @@ color:#F89F9F;	/*  Pink ?*/
 	-webkit-transition: all 0.3s linear;
 	-moz-transition: all 0.3s linear;
 	-o-transition: all 0.3s linear;
-	background:#ffffff; /*persistent banner*/
+	background: transparent; /*persistent banner*/
 	top:0px;
 }
 .navbar-inverse {
