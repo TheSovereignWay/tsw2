@@ -251,7 +251,7 @@ color:#F89F9F;	/*  Pink ?*/
 	background: transparent; /* floating banner bkgd */
 	z-index: 50;
 	border-radius: 0;
-	top: 135px;  
+	top: 35px;   /* floating banner px from top */
 	
 	transition: all 0.3s linear;
 	-webkit-transition: all 0.3s linear;
@@ -267,11 +267,10 @@ color:#F89F9F;	/*  Pink ?*/
 	top:0px;
 }
 .navbar-inverse {
-	background: transparent;
+	background: #ff8500;
 }
 .navbar-inverse .navbar-toggle {
 	background-color: #ff8500;
-	color: #000000; 
 }
 .navbar-inverse .navbar-toggle .icon-bar {
 /*background-color: #ff8500;*/
