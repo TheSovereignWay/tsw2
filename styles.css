@@ -237,11 +237,10 @@ color:#F89F9F;	/*  Pink ?*/
 #section-top ul li a {
 	border-radius: 2px;
 	display: inline-block;
-	height: 335px;
+	height: 35px;
 	line-height: 35px;
 	width: 35px;
 	text-align: center;
-	vertical-align: middle;
 }
 #section-top .region-top-first {
 	float: right;
@@ -295,7 +294,7 @@ background: rgb(34, 34, 34);
 	color: #676e73; /* med gry */
 	width: 83%;
 	text-align: center;
-	margin: 30% auto 224px auto;
+	margin: 30% auto 24px auto;
 	font-family: 'Oswald', sans-serif;
 }
 .hero-text p {
@@ -303,12 +302,11 @@ background: rgb(34, 34, 34);
 	padding: 0;
 	margin: 12px 8% 0;
 	text-shadow: 0px 1px 2px rgba(0, 0, 0, .2);
-	color: #000000;
 	
 }
 /*.carousel-inner*/
 #myCarousel {
-	margin-top: 1px;
+	margin-top: 50px;
 	border-bottom: 4px solid #ff8500;
 }
 .carousel-inner > .item {
@@ -356,7 +354,7 @@ background: rgb(34, 34, 34);
 /*----Nav ----*/
 .header .navbar-brand {
 	float: left;
-	padding: 22px 15px;
+	padding: 11px 15px;
 	line-height: 18px;
 }
 .navbar-brand b {
@@ -365,22 +363,22 @@ background: rgb(34, 34, 34);
 	font-weight: 900;
 }
 .navbar-brand b i {
-	color: #ffffff; /*lime Grn*/
+	color: #ffffff; 
 	font-style: normal;
 }
 .logo {
 	font-size: 2.2em;
 	text-shadow: none;
-	margin: 8px 0 0 0;
+	margin: 0px 0 0 0;
 }
 .logo:hover {
 	color: #5A5A5A;
 }
 .header .navbar {
 	margin: 0;
-background: rgba(255, 255, 255, 0.75); /*floating banner bkgrnd*/
+background: rgba(100, 100, 100, 0.75); /*floating banner bkgrnd*/
 border: 0;
-padding: 0px 15px;
+padding: 0px 0px;
 }
 .hero-text2{
 	padding:30px 0; 	
