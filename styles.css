@@ -237,10 +237,11 @@ color:#F89F9F;	/*  Pink ?*/
 #section-top ul li a {
 	border-radius: 2px;
 	display: inline-block;
-	height: 35px;
+	height: 335px;
 	line-height: 35px;
 	width: 35px;
 	text-align: center;
+	vertical-align: middle;
 }
 #section-top .region-top-first {
 	float: right;
@@ -294,7 +295,7 @@ background: rgb(34, 34, 34);
 	color: #676e73; /* med gry */
 	width: 83%;
 	text-align: center;
-	margin: 30% auto 24px auto;
+	margin: 30% auto 224px auto;
 	font-family: 'Oswald', sans-serif;
 }
 .hero-text p {
@@ -302,10 +303,12 @@ background: rgb(34, 34, 34);
 	padding: 0;
 	margin: 12px 8% 0;
 	text-shadow: 0px 1px 2px rgba(0, 0, 0, .2);
+	color: #000000;
+	
 }
 /*.carousel-inner*/
 #myCarousel {
-	margin-top: 50px;
+	margin-top: 1px;
 	border-bottom: 4px solid #ff8500;
 }
 .carousel-inner > .item {
