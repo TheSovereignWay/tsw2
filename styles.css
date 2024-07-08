@@ -354,7 +354,7 @@ background: rgb(34, 34, 34);
 /*----Nav ----*/
 .header .navbar-brand {
 	float: left;
-	padding: 22px 15px;
+	padding: 0px 15px; /*v,h, logo pad*/
 	line-height: 18px;
 }
 .navbar-brand b {
