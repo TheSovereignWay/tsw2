@@ -267,7 +267,7 @@ color:#F89F9F;	/*  Pink ?*/
 	top:0px;
 }
 .navbar-inverse {
-	background: transparent;
+	background: #000000;
 }
 .navbar-inverse .navbar-toggle {
 	background-color: #ff8500;
@@ -280,7 +280,7 @@ color:#F89F9F;	/*  Pink ?*/
 	background: #ff8500;
 }
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-	color: #000000;
+	color: #000000;  /*Nav txt after clk and move*/
 }
 .navbar-inverse .navbar-toggle:hover .icon-bar {
 	background: #00ff00;
