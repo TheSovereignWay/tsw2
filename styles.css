@@ -280,7 +280,7 @@ color:#F89F9F;	/*  Pink ?*/
 	background: #ff8500;
 }
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-	color: #ff00d0;
+	color: #000000;
 }
 .navbar-inverse .navbar-toggle:hover .icon-bar {
 	background: #00ff00;
