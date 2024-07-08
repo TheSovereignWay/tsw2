@@ -376,9 +376,9 @@ background: rgb(34, 34, 34);
 }
 .header .navbar {
 	margin: 0;
-background: rgba(100, 100, 100, 0.75); /*floating banner bkgrnd*/
+background: rgba(100, 100, 100, 0.80); /*floating banner bkgrnd*/
 border: 0;
-padding: 0px 15px; /*v,h padding nav*/
+padding: 0px 13px; /*v,h padding nav*/
 }
 .hero-text2{
 	padding:30px 0; 	
