@@ -989,7 +989,7 @@ body {
 	margin-right: 6px;
 }
 footer { 
-	padding: 600px 0; 
+	padding: 45px 0; 
 }
 .social a:hover {
 	color: #000;
@@ -1039,7 +1039,7 @@ font-size:24px;
 padding-bottom:12px;
 }
 footer .col ul {
-margin: 0;
+margin: 200;
 padding: 0;
 list-style: none;
 }
